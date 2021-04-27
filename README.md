@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gustavo Parizi</h1>
-<h3 align="center">A Web Developer focused on Agile Project Management start programming</h3>
+<h3 align="center">A Web Developer focused on Agile Project Management</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogoopa" alt="ogoopa" /> </p>
 
 **ogoopa/ogoopa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <!-- <a href="https://codepen.io/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="gusparizi" height="20" width="20" /></a> -->
-<a href="https://twitter.com/ogudma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gusparizi" height="20" width="20" /></a> -->
+<a href="https://twitter.com/ogudma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gusparizi" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/gusparizi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gusparizi" height="20" width="20" /></a>
 <!-- <a href="https://stackoverflow.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="gusparizi" height="20" width="20" /></a> -->
 <!-- <a href="https://codesandbox.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="gusparizi" height="20" width="20" /></a> -->
