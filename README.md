@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<-- - 🔭 I’m currently working on [Rocketseat](https://github.com/Rocketseat) -->
+<!-- - 🔭 I’m currently working on [Rocketseat](https://github.com/Rocketseat) -->
 
-<-- - 👨‍💻 All of my projects are available at [mayk.brito.net.br](https://mayk.brito.net.br) -->
+<!-- - 👨‍💻 All of my projects are available at [mayk.brito.net.br](https://mayk.brito.net.br) -->
 
-<-- - ▶️ I regulary post videos on [youtube.com/rocketseat](https://youtube.com/rocketseat) -->
+<!-- - ▶️ I regulary post videos on [youtube.com/rocketseat](https://youtube.com/rocketseat) -->
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL**
 
