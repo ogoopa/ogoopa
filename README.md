@@ -1,17 +1,16 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gustavo Parizi</h1>
-<h3 align="center">A Web Developer focused on Agile Project Management</h3>
+<h3 align="center">A Developer focused on Agile Project Management</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogoopa" alt="ogoopa" /> </p>
 
 **ogoopa/ogoopa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👨‍💻 IT professional with over 12 years of experience in multinationals and own ventures;
+- 🔭 Working in the areas of project management and strategic planning;
+- ⚡ Currently immersed in development studies, in front-end technologies (Angular, Javascript, HTML and CSS) and back-end (C #, .NET framework), with the intention of taking on a challenge as a developer. Also attending a postgraduate course in the area of software development with agile methodologies;
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 😄 Pronouns: ... -->
+<!-- - ⚡ Fun fact: ... -->
 <!-- - 🔭 I’m currently working on [Rocketseat](https://github.com/Rocketseat) -->
 <!-- - 👨‍💻 All of my projects are available at [mayk.brito.net.br](https://mayk.brito.net.br) -->
 <!-- - ▶️ I regulary post videos on [youtube.com/rocketseat](https://youtube.com/rocketseat) -->
