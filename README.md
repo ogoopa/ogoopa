@@ -1,12 +1,12 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gustavo Parizi</h1>
-<h3 align="center">A Developer focused on Agile Project Management</h3>
+<h3 align="center">Software Engineer | FullStack | NodeJs | AWS</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogoopa" alt="ogoopa" /> </p>
 
 **ogoopa/ogoopa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 👨‍💻 IT professional with over 12 years of experience in multinationals and own ventures;
-- 🔭 Working in the areas of project management and strategic planning;
-- ⚡ Currently immersed in development studies, in front-end technologies (Angular, Javascript, HTML and CSS) and back-end (C #, .NET framework), with the intention of taking on a challenge as a developer. Also attending a postgraduate course in the area of software development with agile methodologies;
+- ⚡ Enterprising, pushful, creative, committed, resilient, positivist and conquering spirit!
+- 👨‍💻 I have 15 years of experience in the IT working in strategic positions, with Software Development, Project Management and Strategic Planning. 
+- 🔭 Passionate about nature, science fiction and a great enthusiast of technology, Artificial Intelligence and algorithms. My dream is to transform our way of life with sustainable solutions that benefit the environment.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ... -->
@@ -14,7 +14,7 @@
 <!-- - 🔭 I’m currently working on [Rocketseat](https://github.com/Rocketseat) -->
 <!-- - 👨‍💻 All of my projects are available at [mayk.brito.net.br](https://mayk.brito.net.br) -->
 <!-- - ▶️ I regulary post videos on [youtube.com/rocketseat](https://youtube.com/rocketseat) -->
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL**
+- 💬 Ask me about **Node.js, React.js, AWS**
 - 📫 How to reach me **gusparizi@gmail.com**
 
 <p align="center">
