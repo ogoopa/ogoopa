@@ -36,3 +36,7 @@
 <a href="https://fb.com/guparizi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="gusparizi" height="20" width="20" /></a>
 <a href="https://instagram.com/ogudma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gusparizi" height="20" width="20" /></a> 
 </p>
+
+<a href="https://www.linkedin.com/in/gusparizi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+  ![Snake animation](https://github.com/ogoopa/ogoopa/blob/main/github-contribution-grid-snake.svg)
