@@ -6,7 +6,7 @@
 
 - ⚡ Enterprising, pushful, creative, committed, resilient, positivist and conquering spirit!
 - 👨‍💻 I have 15 years of experience in the IT working in strategic positions, with Software Development, Project Management and Strategic Planning. 
-- 🔭 Passionate about nature, science fiction and a great enthusiast of technology, Artificial Intelligence and algorithms. My dream is to transform our way of life with sustainable solutions that benefit the environment.
+- 🔭 Passionate about nature, science fiction, music and a great enthusiast of technology, Artificial Intelligence and algorithms. My dream is to transform our way of life with sustainable solutions that benefit the environment.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ... -->
